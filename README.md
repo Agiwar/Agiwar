@@ -1,4 +1,4 @@
-## Hi there 👋
+## Self-Intro 👋
 
 <!--
 **Agiwar/Agiwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Jeffrey Li — Data Engineer
+
+I am passionate about designing scalable and efficient data solutions that empower organizations to make informed decisions based on data.
+
+Core Stack:
+• Python (Programming Language)
+• SQL
+• Apache Spark
+• Data Build Tool (DBT)
+• Data Lakehouse
+
+To learn more about me, you may be interested in visiting my LinkedIn profile at www.linkedin.com/in/jeffrey-li-dataengineer.
