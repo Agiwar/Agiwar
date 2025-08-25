@@ -25,5 +25,3 @@ Core Stack:
 • Apache Spark
 • Data Build Tool (DBT)
 • Data Lakehouse
-
-To learn more about me, you may be interested in visiting my LinkedIn profile at www.linkedin.com/in/jeffrey-li-dataengineer.
