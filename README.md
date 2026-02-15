@@ -1,6 +1,9 @@
-## Self-Intro 👋
+# Self-Intro 👋
 
 **Jeffrey Li — Senior Data Engineer**
 
-I turn messy, high-volume data into **trusted, queryable systems**.  
-My strength is building **engineering-first data foundations**: automation, quality controls, and scalable compute patterns that hold up in production.
+Data engineer with an infrastructure mindset:
+  - I build reusable data frameworks,
+  - stabilize distributed pipelines,
+  - design no-code self-service platform for stackholders,
+  - debug silent correctness failures (wrong results, no errors).
