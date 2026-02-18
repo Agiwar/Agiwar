@@ -7,4 +7,5 @@ Data engineer with an infrastructure mindset:
   - stabilize distributed pipelines,
   - design no-code self-service platforms,
   - debug silent correctness failures
+
     (wrong results, no errors).
